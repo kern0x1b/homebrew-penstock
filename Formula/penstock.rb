@@ -1,8 +1,8 @@
 class Penstock < Formula
   desc "Check, lint, lay out, draw and deploy BPMN diagrams from the command line"
   homepage "https://kern0x1b.github.io/penstock-release/"
-  url "https://registry.npmjs.org/@kern0x1b/penstock-cli/-/penstock-cli-26.10.6.tgz"
-  sha256 "5887c63646d8c9a69a00f43d8906014a6827f9090acd42b356965e125195384d"
+  url "https://registry.npmjs.org/@kern0x1b/penstock-cli/-/penstock-cli-26.11.0.tgz"
+  sha256 "5f601093ab1215f5e57d5fe2dee06626d5ea1888331197f3479741800aa65823"
   license :cannot_represent
 
   depends_on "node"
